@@ -1,5 +1,4 @@
 [![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirindudler)](https://github.com/sirindudler/github-readme-stats)
-[![Sirin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirin)](https://github.com/sirindudler/github-readme-stats)
 
 <!--
 **sirindudler/sirindudler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
