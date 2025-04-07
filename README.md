@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirindudler)](https://github.com/sirindudler/github-readme-stats)
 
 <!--
 **sirindudler/sirindudler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
