@@ -1,4 +1,7 @@
-[![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirindudler)](https://github.com/sirindudler/github-readme-stats)
+[![Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sirindudler)](https://github.com/sirindudler/github-readme-stats)
+
+[![Private Repos](https://github-readme-stats-taupe-seven-48.vercel.app/api/top-langs/?username=sirindudler)](https://github.com/sirindudler/github-readme-stats)
+
 
 <!--
 **sirindudler/sirindudler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
